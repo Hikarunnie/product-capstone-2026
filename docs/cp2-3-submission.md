@@ -22,7 +22,7 @@
 
 Built in Figma. Publicly accessible at:
 
-> [https://6b49558b.musa-front.pages.dev/]
+> https://6b49558b.musa-front.pages.dev/
 
 Tested in incognito window — accessible without login.
 
@@ -121,7 +121,7 @@ All entries: Result = Modified — no AI output accepted verbatim. All assumptio
 
 ### 3.1 Live URL
 
-> [INSERT LIVE URL HERE]
+> https://6b49558b.musa-front.pages.dev/
 
 Deployed via Vercel. Any examiner can open this URL in any browser — no installation required.
 
@@ -164,7 +164,7 @@ Creators who express frustration in interviews will take a real action — excha
 **Method:** Smoke test — one-screen landing page
 **Asset:** Headline "Start selling your handmade products in 10 minutes" + prototype screenshot + early access signup form
 **Channel:** Georgian handmade creator communities — Instagram DMs to interview participants, Facebook craft groups, WhatsApp creator chats
-**Window:** [INSERT DATES]
+**Window:** 21/05/2026
 **Minimum sample:** 40 unique visitors from non-team members
 
 ### 4.4 Pre-Registered Thresholds
