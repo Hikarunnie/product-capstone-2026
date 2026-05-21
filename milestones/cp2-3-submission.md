@@ -22,7 +22,7 @@
 
 Built in Figma. Publicly accessible at:
 
-> [stitch link/](https://stitch.withgoogle.com/projects/2247648172852572160)
+> [stitch link](https://stitch.withgoogle.com/projects/2247648172852572160)
 
 Tested in incognito window — accessible without login.
 
@@ -93,18 +93,10 @@ Full document: `03-build/architecture/tech-stack.md`
 | Image storage | Supabase Storage | Bundled with Supabase; no extra service needed for product photos | Cloudinary — extra integration not justified at MVP |
 
 ### 2.3 Architecture Diagram
-┌─────────────────────────────────────────┐
-│   React + Vite (mobile-first web app)  │
-│   Creator flow · Storefront · Orders   │
-│   PostHog SDK                          │
-└──────────────┬──────────────┬──────────┘
-│  REST / RLS  │  Events
-▼              ▼
-┌──────────────────────┐  ┌────────────────────┐
-│  Supabase            │  │   PostHog Cloud    │
-│  Auth · DB · Storage │  │  1M events/mo free │
-└──────────────────────┘  └────────────────────┘Hosted on: Vercel (frontend) · Supabase (backend + DB + storage)
 
+![Musa Architecture Diagram](architecture-diagram.png)
+
+Hosted on: Vercel (frontend) · Supabase (backend + DB + storage)
 ### 2.4 AI Tool Annotations
 
 Full log: `docs/ai-usage-log.md`
@@ -121,7 +113,7 @@ All entries: Result = Modified — no AI output accepted verbatim. All assumptio
 
 ### 3.1 Live URL
 
-> https://6b49558b.musa-front.pages.dev/
+> [Musa live link](https://musa-front.pages.dev/)
 
 Deployed via Vercel. Any examiner can open this URL in any browser — no installation required.
 
