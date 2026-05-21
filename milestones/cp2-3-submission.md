@@ -22,7 +22,7 @@
 
 Built in Figma. Publicly accessible at:
 
-> https://6b49558b.musa-front.pages.dev/
+> [stitch link/](https://stitch.withgoogle.com/projects/2247648172852572160)
 
 Tested in incognito window — accessible without login.
 
