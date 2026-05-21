@@ -94,9 +94,10 @@ Full document: `03-build/architecture/tech-stack.md`
 
 ### 2.3 Architecture Diagram
 
-![Musa Architecture Diagram](architecture-diagram.png)
+![Musa Architecture Diagram](../03-Build/architecture/architecture-diagram.png)
 
 Hosted on: Vercel (frontend) · Supabase (backend + DB + storage)
+
 ### 2.4 AI Tool Annotations
 
 Full log: `docs/ai-usage-log.md`
