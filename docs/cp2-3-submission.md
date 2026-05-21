@@ -22,7 +22,7 @@
 
 Built in Figma. Publicly accessible at:
 
-> [INSERT PROTOTYPE LINK HERE]
+> [https://6b49558b.musa-front.pages.dev/]
 
 Tested in incognito window — accessible without login.
 
